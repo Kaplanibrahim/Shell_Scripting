@@ -8,7 +8,7 @@ num2=5
 echo "20.5+5" | bc 
 echo "20.5-5" | bc 
 echo "20.5*5" | bc 
-echo "scale=2; 20.5/5" | bc # kac basamka gormek istiyorsan scale ile tanimliyoruz.
+echo "scale=2; 20.5/5" | bc # kaç basamak olduğunu görmek için scale ile tanımlıyoruz
 echo "20.5%5" | bc  
 echo "$num1+$num2" | bc 
 echo "$num1-$num2" | bc 
